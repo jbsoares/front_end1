@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+
+
+body{
+    background: rgb(8,22,59);
+    background: linear-gradient(to bottom right,88deg, rgba(8,22,59,1) 10%, rgba(5,25,70,1) 80%,rgb(29, 54, 121) 10%);
+    color: white;
+    font-family:Roboto , sans-serif;
+}
+h1{
+    text-align: center;
+    font-family: Roboto,sans-serif;
+    color: white;
+}
+.review-score{
+    background-color:rgb(18, 82, 138) ;
+    padding: 12px;
+    color:rgb(4, 25, 44) ;
+}
+
+.media-picture{
+    background-image: url("soul-movie_si.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 700px;
+    position: relative;
+}
