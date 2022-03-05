@@ -108,8 +108,7 @@ body {
 
 }
 .photo1{
-    background-image: "https://picsum.photos/800/500?random=1";
-    
+    background-image:"https://picsum.photos/800/500?random=1";   
 }
 .photo2{
     background-image:"https://picsum.photos/800/500?random=2";
