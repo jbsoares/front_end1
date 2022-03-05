@@ -108,20 +108,20 @@ body {
 
 }
 .photo1{
-    background-image:"https://picsum.photos/800/500?random=1";   
+    background-image:url(https://picsum.photos/800/500?random=1);   
 }
 .photo2{
-    background-image:"https://picsum.photos/800/500?random=2";
+    background-image:url(https://picsum.photos/800/500?random=2);
 }
 .photo3{
-    background-image: "https://picsum.photos/800/500?random=3";
+    background-image: url(https://picsum.photos/800/500?random=3);
 }
 .photo4{
-    background-image:"https://picsum.photos/800/500?random=4";
+    background-image:url(https://picsum.photos/800/500?random=4);
 }
 .photo5{
-    background-image:"https://picsum.photos/800/500?random=5";
+    background-image:url(https://picsum.photos/800/500?random=5);
 }
 .photo6{
-    background-image:"https://picsum.photos/800/500?random=6";
+    background-image:url(https://picsum.photos/800/500?random=6);
 }
